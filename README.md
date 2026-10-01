@@ -48,6 +48,16 @@ TBD
 
 ## Changelog
 
+### 0.12.0 (2026-09-08)
+
+- Take the listener snapshot in a single call (#31)
+
+
+### 0.11.0 (2025-04-01)
+
+- Synchronized access to Connection listeners (#30)
+
+
 ### 0.10.0 (2022-03-27)
 
 - Add `OventropRegumaqX45ConfigurationOptimizer`.
